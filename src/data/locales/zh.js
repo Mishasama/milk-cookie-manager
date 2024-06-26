@@ -1,30 +1,30 @@
 module.exports = {
     "extensionShortName": {
-        "message": "MILK"
+        "message": "牛奶"
     },
     "extensionFullName": {
-        "message": "MILK — Cookie Manager"
+        "message": "牛奶 — Cookie 管理器"
     },
     "extensionDescription": {
-		"message": "Cookie最好的朋友！2024年最具人性化、 最好用的cookie管理器。"
+		"message": "饼干最好的搭档！现代化的 Cookie 管理器。"
     },
     "cookieManager": {
-        "message": "Cookie Manager"
+        "message": "Cookie 管理器"
     },
     "codedWith": {
-        "message": "由"
+        "message": "用"
     },
     "byAuthor": {
-        "message": "制作，作者：Rafael Grigorian"
+        "message": "编制，作者：Rafael Grigorian"
     },
     "options": {
         "message": "设置选项"
     },
     "fullscreen": {
-        "message": "全屏"
+        "message": "全屏显示"
     },
     "version": {
-        "message": "版本发布"
+        "message": "版本"
     },
     "searchSettings": {
         "message": "搜索设置"
@@ -33,10 +33,10 @@ module.exports = {
         "message": "外观"
     },
     "blockedCookies": {
-        "message": "被阻止的Cookies"
+        "message": "被阻止的 Cookies"
     },
     "protectedCookies": {
-        "message": "受保护的Cookies"
+        "message": "受保护的 Cookies"
     },
     "specialThanks": {
         "message": "特别鸣谢"
